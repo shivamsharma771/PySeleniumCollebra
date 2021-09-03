@@ -1,2 +1,2 @@
-# PySeleniumCollebra
+# Gradright
 Automation testing of a Webpage
